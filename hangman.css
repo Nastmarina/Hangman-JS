@@ -1,0 +1,26 @@
+hangman.css
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: aqua;
+  }
+  
+  #start {
+    margin: 10px;
+  }
+  
+  #blank {
+    margin: 10px;
+  }
+  
+  #first {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .display-none {
+    display: none;
+  }
